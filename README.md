@@ -1,3 +1,4 @@
+[![Build Status](https://samchal.visualstudio.com/TestProject/_apis/build/status/samchal.pipelines-java?branchName=master)](https://samchal.visualstudio.com/TestProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
